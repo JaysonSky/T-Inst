@@ -1,5 +1,4 @@
 #!/bin/bash
-
 apt-get update
 apt-get install git
 apt-get install python
@@ -7,10 +6,8 @@ apt-get install python2.3
 apt-get upgrade
 git clone https://github.com/JaysonSky/Pentesting-Tools.git
 clear
-echo "###################################################"
+echo "#_________________________________________________#"
 echo "######## Facebook : fb.com/meowwyaww.cat.ph #######"
 echo "########## Github : github.com/JaysonSky/ #########"
 echo "##### Termux : ( Pentesting Tools Installer ) #####"
-echo "###################################################"
 echo "######### Type : python2 + (python script) ########"
-echo "###################################################"
