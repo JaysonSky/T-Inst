@@ -1,4 +1,12 @@
 #!/bin/bash
+
+apt-get update
+apt-get install python
+apt-get install python2.3
+apt-get upgrade
+
+git clone https://github.com/JaysonSky/T-Inst.git
+
 echo "# Facebook : fb.com/meowwyaww.cat.ph       #"
 echo "# Github : github.com/JaysonSky/           #"
 echo "# Termux : ( Pentesting Tools Installer )  #"
