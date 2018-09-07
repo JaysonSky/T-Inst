@@ -3,7 +3,6 @@ apt-get install git
 apt-get install python
 apt-get install python2.3
 git clone https://github.com/JaysonSky/Pentesting-Tools.git
-apt-get
 echo "###################################################"
 echo "######## Facebook : fb.com/meowwyaww.cat.ph #######"
 echo "########## Github : github.com/JaysonSky/ #########"
