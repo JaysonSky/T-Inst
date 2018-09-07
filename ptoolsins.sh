@@ -9,4 +9,10 @@ apt-get update
 clear
 git clone https://github.com/JaysonSky/Pentesting-Tools.git
 figlet ~Meoww.
-echo " Facebook : fb.com/meowwyaww.cat.ph\nGithub : https://github.com/JaysonSky/"
+echo "###################################################"
+echo "######## Facebook : fb.com/meowwyaww.cat.ph #######"
+echo "########## Github : github.com/JaysonSky/ #########"
+echo "# Gnuroot Debian : ( Pentesting Tools Installer ) #"
+echo "###################################################"
+echo "######### Type : python2 + (python script) ########"
+echo "###################################################"
