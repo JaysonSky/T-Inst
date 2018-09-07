@@ -6,9 +6,10 @@ apt-get install python2.3
 apt-get upgrade
 
 git clone https://github.com/JaysonSky/T-Inst.git
+clear
 echo "############################################"
 echo "# Facebook : fb.com/meowwyaww.cat.ph       #"
 echo "# Github : github.com/JaysonSky/           #"
-echo "# Termux : ( Pentesting Tools Installer )  #"
 echo "# Type : python2 + (python script)         #"
-echo "############################################
+echo "############################################"
+echo "+Gnuroot Debian : ( Pentesting-Tools Installer )+"
