@@ -5,7 +5,6 @@ bash msfinstall
 echo "Wait a Few Minutes For Installing"
 chmod +x msfinstall
 ./msfinstall
-clear
 echo "#################################################"
 echo "# Facebook facebook.com/meowwyaww.cat.ph        #" 
 echo "# Github : github.com/JaysonSky/ <<             #"
