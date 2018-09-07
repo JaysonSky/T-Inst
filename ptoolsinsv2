@@ -7,9 +7,9 @@ apt-get upgrade
 
 git clone https://github.com/JaysonSky/T-Inst.git
 clear
-echo "############################################"
-echo "# Facebook : fb.com/meowwyaww.cat.ph       #"
-echo "# Github : github.com/JaysonSky/           #"
-echo "# Type : python2 + (python script)         #"
-echo "############################################"
-echo "+Gnuroot Debian : ( Pentesting-Tools Installer )+"
+echo "   ############################################"
+echo "   # Facebook : fb.com/meowwyaww.cat.ph       #"
+echo "   # Github : github.com/JaysonSky/           #"
+echo "   # Type : python2 + (python script)         #"
+echo "   ############################################"
+echo "+[ Gnuroot Debian : ( Pentesting-Tools Installer ) ]+"
