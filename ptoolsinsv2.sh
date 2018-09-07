@@ -1,10 +1,8 @@
 apt-get update
-apt-get upgrade
-clear
 apt-get install git
 apt-get install python
 apt-get install python2
-apt-get update
+apt-get install upgrade
 clear
 git clone https://github.com/JaysonSky/Pentesting-Tools.git
 echo "###################################################"
