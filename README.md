@@ -1,2 +1,4 @@
 # T-Inst
-<br>Metasploit Installer for Termux - <b>metasploitins.sh</b><br>
+<h4>Termux Installer</h4>
+<br>Metasploit Installer - <b>metasploitins.sh</b><br>
+PTools (Pentesting-Tools) Installer - <a href="https://github.com/JaysonSky/Pentesting-Tools.git">ptools.sh</a> 
